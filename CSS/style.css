@@ -1,0 +1,27 @@
+.card-tarefa {
+    border: 0.5px solid;
+    border-color: rgba(78, 167, 100, 0.411);
+    width: 400px;
+    height: 100px;   
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 20px;
+    box-shadow: 10px 1px 4px -7px;
+}
+
+
+#tarefa-digitada {
+    width: 45%;
+    margin: 5px;
+}
+
+
+
+footer {
+    position: fixed;
+    width: 100vw;
+    display: flex;
+    padding: 10px; 
+    bottom: 0;
+    justify-content: center;
+}
